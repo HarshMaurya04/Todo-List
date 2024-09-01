@@ -9,7 +9,7 @@ The Todo List project is a simple yet powerful task management application desig
 
 **1] Clone the Repository:** Start by cloning the repository to your local machine.
 ```bash
- git clone https://github.com/your-username/todo-list.git
+ git clone https://github.com/HarshMaurya04/Todo-List.git
 ``` 
 
 **2] Install Dependencies:** Navigate to the project directory and install the required dependencies.
