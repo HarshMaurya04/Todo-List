@@ -1,0 +1,16 @@
+.container {
+  width: 75%;
+}
+
+.firstPara {
+  margin-top: 6rem;
+}
+
+.lead {
+  font-weight: 600;
+}
+
+.imageBorder {
+  border: 2px solid gray;
+  border-radius: 20px;
+}

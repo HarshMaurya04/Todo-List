@@ -1,0 +1,69 @@
+.Container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.checkText {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  align-items: center; 
+}
+
+.checkBox {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  accent-color: #ff9d8c;
+  transition: all 0.2s ease-in-out;
+}
+
+.checkBox:hover {
+  accent-color: #ff9d8c;
+  box-shadow: 0 0 3px #fa826c;
+}
+
+.text-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.text1 {
+  margin: 0;
+  color: #f95133;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+.text2 {
+  margin: 0;
+  color: #676767;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+.remove-btn {
+  min-width: 15%;
+  padding: 6px;
+  margin-left: 1.5rem;
+  border: 1px solid #6a481b;
+  border-radius: 0.4rem;
+  background-color: #fa826c;
+  transition: all 0.2s ease-in-out;
+  flex-shrink: 0;
+}
+
+.remove-btn:hover {
+  background-color: #ff9d8c;
+}
+
+.textChecked {
+  text-decoration: line-through;
+  color: #888;
+  word-wrap: break-word;
+  word-break: break-word;
+}

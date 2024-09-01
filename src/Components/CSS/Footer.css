@@ -1,0 +1,18 @@
+.foot {
+  background-color: #2bb7b989;
+  padding: 1rem;
+  margin-top: 4rem;
+  width: 100%;
+  border-top: 2px solid #16727489;
+  display: flex;
+  justify-content: center;
+  position: static;
+  bottom: 0;
+}
+
+p {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.678);
+  font-weight: bold;
+  font-size: 1rem;
+}
